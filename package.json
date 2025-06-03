@@ -322,21 +322,21 @@
     "release": "bumpp && npm run publish"
   },
   "devDependencies": {
-    "@types/http-errors": "^1.8.0",
-    "@types/node": "^20.8.9",
-    "@types/vscode": "^1.83.1",
-    "@typescript-eslint/eslint-plugin": "^6.10.0",
-    "@typescript-eslint/parser": "^6.10.0",
-    "bumpp": "^8.2.1",
-    "esbuild": "^0.19.12",
-    "eslint": "^8.27.0",
-    "eslint-config-prettier": "^9.0.0",
-    "esno": "^0.16.3",
-    "prettier": "^3.0.3",
-    "rimraf": "^3.0.2",
-    "string.prototype.matchall": "^4.0.2",
-    "typescript": "^5.2.2",
-    "vsce": "^2.11.0"
+    "@types/http-errors": "^2.0.4",
+    "@types/node": "^22.15.29",
+    "@types/vscode": "1.83.1",
+    "@typescript-eslint/eslint-plugin": "^8.33.1",
+    "@typescript-eslint/parser": "^8.33.1",
+    "bumpp": "^10.1.1",
+    "esbuild": "^0.25.5",
+    "eslint": "^9.28.0",
+    "eslint-config-prettier": "^10.1.5",
+    "esno": "^4.8.0",
+    "prettier": "^3.5.3",
+    "rimraf": "^6.0.1",
+    "string.prototype.matchall": "^4.0.12",
+    "typescript": "^5.8.3",
+    "vsce": "^2.15.0"
   },
   "directories": {
     "doc": "docs"
